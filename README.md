@@ -4,9 +4,6 @@
   <em>Specializing in Computer Vision, Deep Learning, and Scalable ML Pipelines across Finance, Healthcare, and Fashion.</em>
 </p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=guptamadhav&label=Profile%20views&color=0e75b6&style=flat" alt="guptamadhav" /> 
-</p>
 
 <p align="left"> 
   🔭 <strong>Current Focus:</strong> Building <strong>Wallet</strong>, a centralized AI financial platform (Feb 2025 - Present) & working on an <strong>AI Capstone at Pulse Medica</strong> (Jan 2026 - Present).
