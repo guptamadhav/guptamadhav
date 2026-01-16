@@ -1,25 +1,83 @@
-<h1>Hey Everyone</h1>
-<code>Explorer(Freshman @ualberta | Developer)</code>
-<p>I am a self-taught programmer. I have worked hard to build this extra skill along with school academics. I learned how to code through various online resources such as udemy, youtube and edx. I chose to pursue computer science because it rightly blends my interest in how technology works and my problem-solving skills.</p> 
-<hr>
-<h3>Coding Journey</h3>
-<li>My first language was C++. I learned how to code in it through Udemy. I learned all the basic topics in it like functions, arrays, vectors, characters, strings, variables, constants, statements & operators, control flow(if/else, switch, for loop, while loop), pointers and OOP(classes). I learned C++ on CdeLite IDE. Alongside this, I started doing competitive programming on CodeChef just to check my skills. I have solved around <b>63 problems</b> in it. My highest Rating was <b>1458</b> and my highest Global Rank was <b>1228</b>. <code><a href="https://www.codechef.com/users/mg_75">Codechef profile</a></code></li>
-<br>
-<li>Further on I learned how to code in Python which is now my primary language. I chose Python because it opens a number of fields to choose from. It was easy to learn the basic syntax of Python as I was already familiar with C++ syntax. I learned Python through the famous Angela Yu's Udemy course along with freecodecamp and CS Dojo's YouTube channel. I have worked on various Python projects such as <b>Games, Python Scripting, Graphic User Interface (GUI) desktop apps, HTTP requests and APIs, Python Automation, Web Scrapping, Data Science</b></li>
-<hr>
-<h3>What helped me to improve my Problem-Solving Skills and Logical Thinking</h3>
-<code>Abacus (Mental and Vedic Math)</code>
-<code>Reasoning (Mental Ability Questions)</code>
-<hr>
-<h3>🧰 Languages and Tools</h3>
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<br>
-<hr>
-<h3>Packages & Libraries</h3>
+<h1 align="center">Hi 👋, I'm Madhav Gupta</h1>
+<h3 align="center">AI Engineer & Data Scientist</h3>
+<p align="center">
+  <em>Specializing in Computer Vision, Deep Learning, and Scalable ML Pipelines across Finance, Healthcare, and Fashion.</em>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=guptamadhav&label=Profile%20views&color=0e75b6&style=flat" alt="guptamadhav" /> 
+</p>
+
+<p align="left"> 
+  🔭 <strong>Current Focus:</strong> Building <strong>Wallet</strong>, a centralized AI financial platform (Feb 2025 - Present) & working on an <strong>AI Capstone at Pulse Medica</strong> (Jan 2026 - Present).
+</p>
+
+<h3>🎓 Education</h3>
+<ul>
+  <li>
+    <strong>University of Alberta</strong> (Sept 2023 - Present)<br>
+    B.Sc. Computer Science in AI (Specialization)<br>
+    <em>Currently in 3rd Year</em>
+  </li>
+</ul>
+
+<h3>🔭 Experience</h3>
+<ul>
+  <li>
+    <strong>Founding Engineer @ HauteSync</strong> (Oct 2025 - Jan 2026)<br>
+    Engineered a virtual try-on room providing a realistic shopping experience by building pipelines to generate photorealistic 3D human avatars.
+  </li>
+  <br>
+  <li>
+    <strong>Founding Engineer @ Rehab Tech Platform</strong> (Aug 2025 - Jan 2026)<br>
+    Scaled a motor-decline tracking platform from hackathon to pilot testing, securing over $5,000 in funding, by architecting CV pipelines using <code>Mediapipe</code>, <code>YOLO</code>, and <code>FastAPI</code>.
+  </li>
+  <br>
+  <li>
+    <strong>Machine Learning Engineer @ Rehabilitation Robotics Lab, UAlberta</strong> (May 2025 - Aug 2025)<br>
+    Optimized an iris tracking system to achieve a 93.6% DICE score with a 300% performance boost by developing a custom <code>U-Net</code> model with blink-handling logic.
+  </li>
+</ul>
+
+- 🌱 I’m currently learning **AWS, Deep RL, and RLM (Recursive Language Models)**.
+- 👨‍💻 Portfolio: [guptamadhav.github.io](https://guptamadhav.github.io/)
+- 📫 Contact: **madhav75gupta@gmail.com**
+- ⚡ Fun fact: **I can be quite funny, though some might say annoying.**
+
+<h3 align="left">🛠 Languages & Tools</h3>
+
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> 
+</p>
+
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
+</p>
+
+<p align="left">
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/guptamadhav75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guptamadhav75" height="30" width="40" /></a>
+</p>
+
 <p>
-⭐Pandas⭐Numpy⭐Plotly⭐Matplotlib⭐Seaborn⭐Turtle⭐Tkinter⭐Spotipy API⭐Sheety API⭐BeautifulSoup⭐Selenium Webdriver⭐Booststrap⭐Tequila API
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=guptamadhav&show_icons=true&locale=en" alt="guptamadhav" />
 </p>
