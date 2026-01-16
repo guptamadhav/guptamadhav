@@ -26,8 +26,8 @@
   </li>
   <br>
   <li>
-    <strong>Founding Engineer @ Rehab Tech Platform</strong> (Aug 2025 - Jan 2026)<br>
-    Scaled a motor-decline tracking platform from hackathon to pilot testing, securing over $5,000 in funding, by architecting CV pipelines using <code>Mediapipe</code>, <code>YOLO</code>, and <code>FastAPI</code>.
+    <strong>Founding Engineer @ Lunate Labs</strong> (Aug 2025 - Jan 2026)<br>
+    Scaled a motor-decline tracking platform from hackathon to pilot testing, securing over $5,000 in funding, (selected in CAHBI and SPARK 2025 cohorts, Finalists, Primar Pitch Care Competition 2025), by architecting CV pipelines using <code>Mediapipe</code>, <code>YOLO</code>, and <code>FastAPI</code>.
   </li>
   <br>
   <li>
